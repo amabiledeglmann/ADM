@@ -1,0 +1,12 @@
+.logo
+{
+    width: 235px;
+    height: 80px;
+    margin-left: 17px;
+}
+.button-primario{
+    border-radius: 35px;
+    background-color: rgb(75, 117, 255);
+    color: white;
+    border-color: rgb(75, 117, 255);
+}
